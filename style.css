@@ -1,0 +1,64 @@
+
+html {
+  floot:none;
+  display:block;
+padding:10px 15px;
+text-align:center;
+text-decoration: none;
+min-width:60px;
+font-size: 15px;
+}
+
+body{
+font-family: "MS明朝";  
+}
+
+svg{
+  transfome:rotate(90deg);
+  }
+  
+  
+  path{
+  fill:transparent;
+  storoke:#aaaaaa;
+  stroke-width:3;
+  animeation: circle 1s infinite 3s;
+  }
+  
+  @keyframes circle{
+  0%{ stroke-dasharray: 0 365;}
+  99.9%,to{stroke-dasharray:366 365; }
+  }
+
+  #rect2{
+    width:100px;
+    height:100px;
+    background:#000000;
+    transition: all 300ms 0s ease;
+  }
+  #rect2:hover{
+    background:#c4ff04;
+    transform: rotate(720deg); /* 90°回転する */
+  }
+
+  #rect4{
+    width:100px;
+    height:100px;
+    background:#000000;
+    transition: all 300ms 0s ease;
+  }
+  #rect4:hover{
+    background:#00ffff4b;
+    transform: rotate(345deg); /*345°回転する */
+  }
+
+  #rect6{
+    width:100px;
+    height:100px;
+    background:#ff0000;
+    transition: all 300ms 0s ease;
+  }
+  #rect6:hover{
+    background:hsla(0, 0%, 100%, 0);
+    transform: rotate(360deg); /*回転する */
+  }
