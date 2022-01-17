@@ -4483,26 +4483,6 @@ AAAAAAAAAAAAAAAAAAAAAOadc/8/VwXHzm/MLIIAAAAASUVORK5CYII=
   </g>
 </svg>
 
-<h3>2022.1/12<h3>
-
-<div>
-<div id="rect1"><p><svg width="100%"height="0%"text="999">
-<circle cx="60%" cy="40%" r="5%" fill="rgb(10,100,200)"/>
-</svg></div></p>
-<div id="rect1"><p><svg width="100%"height="0%">
-<circle cx="60%" cy="40%" r="5%" fill="rgb(150,150,200)"/>
-</svg></div></p>
-<div id="rect1"><p><svg width="100%"height="0%">
-<circle cx="60%" cy="40%" r="5%" fill="pink"/>
-</svg></div></p>
-<div id="rect1"><p><svg width="100%"height="0%">
-<circle cx="60%" cy="40%" r="5%" fill="rgb(0,200,150)"/>
-</svg></div></p>
-<div id="rect1"><p><svg width="100%"height="0%">
-<circle cx="60%" cy="40%" r="5%" fill="rgb(200,100,0)"/>
-</svg></div></p>
-</div>
-<br>
 <h3>2022.1/17<h3>
 
 <svg
