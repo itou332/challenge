@@ -11746,11 +11746,7 @@ afDAY/lYlcn+IdKekQIKzMBj7oIzuz/Kny2RU6qSK8kUi7UdBxndk5INO+zav/d/8eWnyR7l6ZK8
   </g>
 </svg>
 
-
-</body>
-
 <footer>
-
 <div>
 *献立
 -<a href="https://itou332.github.io/top_page/">主項目</a>
