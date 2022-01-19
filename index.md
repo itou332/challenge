@@ -2839,8 +2839,8 @@ AARFAAAgKAIAAEH9P3W8ZlIjPNeFAAAAAElFTkSuQmCC
 <h3>2022.1/6</h3>
 
 <svg
-   width="107.1023mm"
-   height="214.20461mm"
+   width="53.55115mm"
+   height="107.102305mm"
    viewBox="0 0 107.1023 214.20461"
    version="1.1"
    id="svg5"
