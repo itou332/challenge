@@ -34712,8 +34712,8 @@ QRAEQRAEcbYB+P8BpdFCtUbXnUEAAAAASUVORK5CYII=
        transform="rotate(0.1921943)" />
   </g>
 </svg>
-<hr>
 
+<br>
 
 <svg
    width="113.56085mm"
