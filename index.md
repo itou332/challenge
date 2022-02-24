@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 私の絵の記録　第5項/My painting record, paragraph 5.
+title: web絵　第5項/My painting record, paragraph 5.
 description: PCで描いた絵をここに記録します。This item is a note for new ideas.
 lang: ja_JP
 ---
@@ -12,7 +12,9 @@ lang: ja_JP
 -<a href="https://itou332.github.io/">1項目</a>
 -<a href="https://itou332.github.io/itou332a.github.io/">2項目</a>
 -<a href="https://itou332.github.io/diary">3項目</a>
--<a href="https://itou332.github.io/today">4項目</a>
+-<a href="https://itou332.github.io/today/">4項目</a>
+-<a href="https://itou332.github.io/challenge/">5項目</a>
+-<a href="https://itou332.github.io/nontitle/">6項目</a>
 -<a href="https://itou332.github.io/Privacy-policy/">免責事項</a>
 -<a href="https://github.com/itou332">my github</a>
 -<a href="http://itou33good.starfree.jp/">itou</a>
@@ -35,7 +37,7 @@ lang: ja_JP
 <link rel="apple-touch-icon" href="./images/favicon.png" sizes="180x180">
 <link rel="icon" type="image/png" href="./images/favicon.png" sizes="192x192">
 <link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
-<meta name="keywords" content="My painting record,記録,私">
+<meta name="keywords" content="My painting record,記録,web絵,svg">
 
 <body>
 <hr>
@@ -35180,7 +35182,9 @@ o4466qijjjrqqKOOOuqoo4466qijjjrqqKOOOuq4MDDm/wP1i59h2y8/pAAAAABJRU5ErkJggg==
 -<a href="https://itou332.github.io/">1項目</a>
 -<a href="https://itou332.github.io/itou332a.github.io/">2項目</a>
 -<a href="https://itou332.github.io/diary">3項目</a>
--<a href="https://itou332.github.io/today">4項目</a>
+-<a href="https://itou332.github.io/today/">4項目</a>
+-<a href="https://itou332.github.io/challenge/">5項目</a>
+-<a href="https://itou332.github.io/nontitle/">6項目</a>
 -<a href="https://itou332.github.io/Privacy-policy/">免責事項</a>
 -<a href="https://github.com/itou332">my github</a>
 -<a href="http://itou33good.starfree.jp/">itou</a>
