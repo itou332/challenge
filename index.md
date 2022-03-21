@@ -1,13 +1,19 @@
 ---
 layout: default
 title: web絵　第5項/My painting record, paragraph 5.
-description: PCで描いた絵をここに記録します。This item is a note for new ideas.
+description:PCで描いた絵をここに記録します。<br>
+このサイトはダークモードにしたり、ブラウザーを変えると見え方が少し変わります。<br> 
+pc,androidのスペックでも絵が変化します。絵はsvg形式で書かれています。<br>
+This is where I record the pictures I draw on my PC.<br>
+This site looks a little different if you use dark mode or change your browser.<br>
+The picture will also change depending on the specs of your PC or android. The pictures are written in svg format.
 lang: ja_JP
 ---
 <hedar>
 <link rel="stylesheet" href="style.css">
 <h1>5項目</h1>
-<p>*献立
+<p>
+*献立
 -<a href="https://itou332.github.io/top_page/">主項目</a>
 -<a href="https://itou332.github.io/">1項目</a>
 -<a href="https://itou332.github.io/itou332a.github.io/">2項目</a>
@@ -15,6 +21,7 @@ lang: ja_JP
 -<a href="https://itou332.github.io/today/">4項目</a>
 -<a href="https://itou332.github.io/challenge/">5項目</a>
 -<a href="https://itou332.github.io/nontitle/">6項目</a>
+-<a href="https://itou332.github.io/elaboration/">7項目</a>
 -<a href="https://itou332.github.io/Privacy-policy/">免責事項</a>
 -<a href="https://github.com/itou332">my github</a>
 -<a href="http://itou33good.starfree.jp/">itou</a>
@@ -35186,6 +35193,7 @@ o4466qijjjrqqKOOOuqoo4466qijjjrqqKOOOuq4MDDm/wP1i59h2y8/pAAAAABJRU5ErkJggg==
 -<a href="https://itou332.github.io/today/">4項目</a>
 -<a href="https://itou332.github.io/challenge/">5項目</a>
 -<a href="https://itou332.github.io/nontitle/">6項目</a>
+-<a href="https://itou332.github.io/elaboration/">7項目</a>
 -<a href="https://itou332.github.io/Privacy-policy/">免責事項</a>
 -<a href="https://github.com/itou332">my github</a>
 -<a href="http://itou33good.starfree.jp/">itou</a>
