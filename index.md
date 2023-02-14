@@ -62,7 +62,7 @@ lang: ja_JP
 <body>
 
 <h3>2021.11/24</h3>
-
+<!--iの中に赤、青、緑の色が入り乱れている。-->
 <svg
    width="30mm"
    height="100mm"
@@ -440,8 +440,26 @@ lang: ja_JP
   </g>
 </svg>
 
-<h3>2021.12/4</h3>
+<details>
+    <summary>
+    voice_声
+　　</summary>
+    <figure>
+    <figcaption>日本語/jp</figcaption>
+    <audio
+        controls
+        src="http://itou33good.starfree.jp/wp-content/uploads/2023/02/11_24_jp.wav">
+    </audio>
+    <figcaption>en/英語</figcaption>
+      <audio
+        controls
+        src="http://itou33good.starfree.jp/wp-content/uploads/2023/02/11_24_en.wav">
+    </audio>
+</figure>
+</details>
 
+<h3>2021.12/4</h3>
+<!--ボロボロの四角形に、青色の点で描画されたシミのようなものが描かれている。-->
 <svg
    width="105.83334mm"
    height="105.83334mm"
@@ -778,8 +796,26 @@ PADIDwQEAADAFBAQAAAAU0BAAAAATAEBAQAAMAUEBAAAwBQQEAAAAFNAQAAAAEzxU0rBG/kAAADM
   </g>
 </svg>
 
-<h3>2021.12/9</h3>
+<details>
+    <summary>
+    voice_声
+　　</summary>
+    <figure>
+    <figcaption>日本語/jp</figcaption>
+    <audio
+        controls
+        src="http://itou33good.starfree.jp/wp-content/uploads/2023/02/12_4_jp.wav">
+    </audio>
+    <figcaption>en/英語</figcaption>
+      <audio
+        controls
+        src="http://itou33good.starfree.jp/wp-content/uploads/2023/02/12_4_en.wav">
+    </audio>
+</figure>
+</details>
 
+<h3>2021.12/9</h3>
+<!--青い円の中に、線が描かれている。線はぼやけたような体裁をしている。三方向に描かれた線は、特に意味を持たない。古ぼけた雰囲気の色合いになっている。-->
 <svg
    width="100mm"
    height="100mm"
@@ -2654,9 +2690,27 @@ imySZGevPFQF8n/GuhKwJD2bPQ4A9e9RbqOx5pM4zSLQlJR2oqRhmkoopAf/2Q==
        y="73.930351" />
   </g>
 </svg>
+<details>
+    <summary>
+    voice_声
+　　</summary>
+    <figure>
+    <figcaption>日本語/jp</figcaption>
+    <audio
+        controls
+        src="http://itou33good.starfree.jp/wp-content/uploads/2023/02/12_9_jp.wav">
+    </audio>
+    <figcaption>en/英語</figcaption>
+      <audio
+        controls
+        src="http://itou33good.starfree.jp/wp-content/uploads/2023/02/12_9_en.wav">
+    </audio>
+</figure>
+</details>
+
 
 <h3>2021.12/25</h3>
-
+<!--緑色の線で書かれた斜線が重なり合っている。その中に3つの円紛れ込ンでいる。斜線は図形のようにも見える。線が交わっている部分のところどころに色がついている。色はそれぞれ黄、赤、青色をしている。-->
 <svg
    width="100mm"
    height="100mm"
@@ -2855,9 +2909,27 @@ AARFAAAgKAIAAEH9P3W8ZlIjPNeFAAAAAElFTkSuQmCC
        y="106.97255" />
   </g>
 </svg>
+<details>
+    <summary>
+    voice_声
+　　</summary>
+    <figure>
+    <figcaption>日本語/jp</figcaption>
+    <audio
+        controls
+        src="http://itou33good.starfree.jp/wp-content/uploads/2023/02/12_25_jp.wav">
+    </audio>
+    <figcaption>en/英語</figcaption>
+      <audio
+        controls
+        src="http://itou33good.starfree.jp/wp-content/uploads/2023/02/12_25_en.wav">
+    </audio>
+</figure>
+</details>
+
 
 <h3>2022.1/6</h3>
-
+<!--黒い長方形が、徐々に背景と同化している。-->
 <svg
    width="53.55115mm"
    height="107.102305mm"
@@ -2929,6 +3001,7 @@ AARFAAAgKAIAAEH9P3W8ZlIjPNeFAAAAAElFTkSuQmCC
   </g>
 </svg>
 <br>
+<!--金属質な立方体が一筆書きで4つの渦を巻きながら書かれている。-->
 <svg
    width="84.9312525mm"
    height="38.89375mm"
@@ -4503,8 +4576,10 @@ AAAAAAAAAAAAAAAAAAAAAOadc/8/VwXHzm/MLIIAAAAASUVORK5CYII=
   </g>
 </svg>
 
-<h3>2022.1/17<h3>
 
+
+<h3>2022.1/17<h3>
+<!--不思議な長方形の模様がある。模様の中心には赤色のマキビシのようなものが配置されている。マキビシは緑色に発光しているようにもみえる。-->
 <svg
    width="70.55622mm"
    height="125.433275mm"
@@ -11766,8 +11841,26 @@ afDAY/lYlcn+IdKekQIKzMBj7oIzuz/Kny2RU6qSK8kUi7UdBxndk5INO+zav/d/8eWnyR7l6ZK8
   </g>
 </svg>
 
-<h3>2022.1/18</h3>
+<details>
+    <summary>
+    voice_声
+　　</summary>
+    <figure>
+    <figcaption>日本語/jp</figcaption>
+    <audio
+        controls
+        src="http://itou33good.starfree.jp/wp-content/uploads/2023/02/1_17_jp.wav">
+    </audio>
+    <figcaption>en/英語</figcaption>
+      <audio
+        controls
+        src="http://itou33good.starfree.jp/wp-content/uploads/2023/02/1_17_en.wav">
+    </audio>
+</figure>
+</details>
 
+<h3>2022.1/18</h3>
+<!--円が3方向に向かって規則正しく連続して描画されている。長さはそれぞれ違い、立体的にもみえる。-->
 <svg
    width="103.89419mm"
    height="90.59387mm"
@@ -12221,8 +12314,26 @@ afDAY/lYlcn+IdKekQIKzMBj7oIzuz/Kny2RU6qSK8kUi7UdBxndk5INO+zav/d/8eWnyR7l6ZK8
   </g>
 </svg>
 
-<h3>2022.1/22<h3>
+<details>
+    <summary>
+    voice_声
+　　</summary>
+    <figure>
+    <figcaption>日本語/jp</figcaption>
+    <audio
+        controls
+        src="http://itou33good.starfree.jp/wp-content/uploads/2023/02/1_18_jp.wav">
+    </audio>
+    <figcaption>en/英語</figcaption>
+      <audio
+        controls
+        src="http://itou33good.starfree.jp/wp-content/uploads/2023/02/1_18_en.wav">
+    </audio>
+</figure>
+</details>
 
+<h3>2022.1/22<h3>
+<!--黒い線で書いた絵を複製して切り取り、拡大したり重ねたりして継ぎはぎのようになっている。文字も書かれているが小さくぼやけていて読み取れない。色は桃色と黒で書かれている。-->
 <svg
    width="112.08602mm"
    height="85.02475mm"
@@ -13634,8 +13745,27 @@ UEg/NEKKNWzKLDwNxM03b96MjY11dHSUlZUlJSWpMVkzfz2woyM9z/6Q+tklb9++7evrq9XDhMzV
   </g>
 </svg>
 
+<details>
+    <summary>
+    voice_声
+　　</summary>
+    <figure>
+    <figcaption>日本語/jp</figcaption>
+    <audio
+        controls
+        src="http://itou33good.starfree.jp/wp-content/uploads/2023/02/1_22_JP.wav">
+    </audio>
+    <figcaption>en/英語</figcaption>
+      <audio
+        controls
+        src="http://itou33good.starfree.jp/wp-content/uploads/2023/02/1_22_en.wav">
+    </audio>
+</figure>
+</details>
+
 <h3>2022.1/28</h3>
 
+<!--木槌-->
 
 <svg
    width="49.46455mm"
@@ -18607,7 +18737,27 @@ kiRJkiRJkiRJkiRJkiRJkiRJkiRJkiRJkiTpj1XX/T9Ge7iAjkYS2gAAAABJRU5ErkJggg==
      d="m 48.226267,252.57059 c -0.261798,0.003 -0.494583,0.28712 -0.393774,0.79117 0.180551,0.90276 0.202014,0.94349 0.328662,1.83245 0.01918,0.13467 0.03945,0.26974 0.04496,0.40565 0.0016,0.0371 -0.05299,0.13191 -0.02379,0.10904 0.15716,-0.123 0.456139,-0.61972 0.424265,-0.42271 -0.04235,0.26174 -0.307311,0.43244 -0.460954,0.64854 0.0168,0.0708 0.04116,0.14015 0.05013,0.21239 0.01267,0.10199 0.01032,0.20529 0.01447,0.30799 0.01598,0.39599 0.0038,0.78971 -0.0088,1.18546 -0.0039,0.49909 0.0028,0.9984 0.0026,1.49758 0.0065,0.0682 0.0057,0.13558 0.0011,0.20257 -0.05301,0.10441 -0.08867,0.23846 -0.09663,0.40256 -0.0039,0.0801 -0.0075,0.16024 -0.01138,0.2403 5.3e-4,1.3e-4 0.0011,2.6e-4 0.0016,5.3e-4 -0.0042,0.0302 -0.0081,0.0605 -0.01085,0.091 -0.0043,0.0468 -0.05061,0.14283 -0.0036,0.14107 0.193524,-0.007 0.383609,-0.0476 0.573093,-0.0915 0.125174,0.0312 0.250796,0.0619 0.376722,0.0899 0.0077,0.002 -0.0047,-0.0154 -0.0041,-0.0233 0.0037,-0.0501 0.0079,-0.10032 0.01654,-0.14986 0.01484,-0.0855 0.03995,-0.16913 0.05374,-0.25476 0.0627,-0.38952 0.05249,-0.32651 0.05323,-0.64803 2.4e-4,-0.48924 -0.0055,-0.97895 -0.0026,-1.46812 0.01889,-0.5937 0.034,-1.18152 -0.03876,-1.77302 -0.0021,-0.0158 -0.01162,-0.0295 -0.0186,-0.0439 0.01132,-0.0129 0.02236,-0.0258 0.03256,-0.0398 0.0752,-0.10258 -0.02159,-0.73044 -0.02687,-0.76739 -0.130339,-0.91004 -0.153532,-0.95887 -0.335896,-1.87069 -0.08353,-0.41764 -0.32,-0.60779 -0.536919,-0.60513 z m 0.617532,3.48351 c -0.12795,0.10725 -0.252884,0.21038 -0.264583,0.21291 7.93e-4,-0.003 0.0092,-0.0126 0.02739,-0.031 0.06953,-0.0705 0.153591,-0.12606 0.237194,-0.1819 z" />
 </svg>
 
+<details>
+    <summary>
+    voice_声
+　　</summary>
+    <figure>
+    <figcaption>日本語/jp</figcaption>
+    <audio
+        controls
+        src="http://itou33good.starfree.jp/wp-content/uploads/2023/02/1_28_jp.wav">
+    </audio>
+    <figcaption>en/英語</figcaption>
+      <audio
+        controls
+        src="http://itou33good.starfree.jp/wp-content/uploads/2023/02/1_28_en.wav">
+    </audio>
+</figure>
+</details>
+
 <h3>2022.1/31</h3>
+
+<!--棚の図案、鳥飼図-->
 
 <svg
    width="98.706mm"
@@ -20614,8 +20764,26 @@ kiRJkiRJkiRJkiRJkiRJkiRJkiRJkiRJkiTpj1XX/T9Ge7iAjkYS2gAAAABJRU5ErkJggg==
   </g>
 </svg>
 
-<h3>2022.2/5</h3>
+<details>
+    <summary>
+    voice_声
+　　</summary>
+    <figure>
+    <figcaption>日本語/jp</figcaption>
+    <audio
+        controls
+        src="http://itou33good.starfree.jp/wp-content/uploads/2023/02/1_31_jp.wav">
+    </audio>
+    <figcaption>en/英語</figcaption>
+      <audio
+        controls
+        src="http://itou33good.starfree.jp/wp-content/uploads/2023/02/1_31_en.wav">
+    </audio>
+</figure>
+</details>
 
+<h3>2022.2/5</h3>
+<!--筒所に描かれた線。線はピンクと緑で書かれている。線の周りには同色のもやがかかっている。-->
 <svg
    width="110.766885mm"
    height="69.773005mm"
@@ -25637,8 +25805,26 @@ kiRJkiRJkiRJkiRJkiRJkiRJkiRJkiRJkiTpj1XX/T9Ge7iAjkYS2gAAAABJRU5ErkJggg==
   </g>
 </svg>
 
-<h3>2022.2/7</h3>
+<details>
+    <summary>
+    voice_声
+　　</summary>
+    <figure>
+    <figcaption>日本語/jp</figcaption>
+    <audio
+        controls
+        src="http://itou33good.starfree.jp/wp-content/uploads/2023/02/2_5_JP.wav">
+    </audio>
+    <figcaption>en/英語</figcaption>
+      <audio
+        controls
+        src="http://itou33good.starfree.jp/wp-content/uploads/2023/02/2_5_en.wav">
+    </audio>
+</figure>
+</details>
 
+<h3>2022.2/7</h3>
+<!--円から線に向かって形が変形している。立体視点と上部からみた2つの図が書かれている。-->
 <svg
    width="103.99408mm"
    height="100.132355mm"
@@ -26810,7 +26996,27 @@ kiRJkiRJkiRJkiRJkiRJkiRJkiRJkiRJkiTpj1XX/T9Ge7iAjkYS2gAAAABJRU5ErkJggg==
   </g>
 </svg>
 
+<details>
+    <summary>
+    voice_声
+　　</summary>
+    <figure>
+    <figcaption>日本語/jp</figcaption>
+    <audio
+        controls
+        src="http://itou33good.starfree.jp/wp-content/uploads/2023/02/2_7_jp.wav">
+    </audio>
+    <figcaption>en/英語</figcaption>
+      <audio
+        controls
+        src="http://itou33good.starfree.jp/wp-content/uploads/2023/02/2_7_en.wav">
+    </audio>
+</figure>
+</details>
+
 <h3>2022.2/8</h3>
+
+<!--いびつな金色の輪っかに風景が反射している。背景がぼやけていて立体的にみえ遠近感がある。-->
 
 <svg
    width="100.30746mm"
@@ -34561,7 +34767,27 @@ QRAEQRAEcbYB+P8BpdFCtUbXnUEAAAAASUVORK5CYII=
        transform="matrix(1.2686563,0,0,1.2686563,-27.149395,-43.975429)" />
   </g>
 </svg>
+
+<details>
+    <summary>
+    voice_声
+　　</summary>
+    <figure>
+    <figcaption>日本語/jp</figcaption>
+    <audio
+        controls
+        src="http://itou33good.starfree.jp/wp-content/uploads/2023/02/2_8_jp.wav">
+    </audio>
+    <figcaption>en/英語</figcaption>
+      <audio
+        controls
+        src="http://itou33good.starfree.jp/wp-content/uploads/2023/02/2_8_en.wav">
+    </audio>
+</figure>
+</details>
+
 <br>
+<!--木材のような見た目の角材のようなものが重なりあって三角形を作り出している。薄い青と黄色の円が背後にみえる。-->
 <svg
    width="80.191223mm"
    height="88.65696mm"
@@ -34732,8 +34958,26 @@ QRAEQRAEcbYB+P8BpdFCtUbXnUEAAAAASUVORK5CYII=
   </g>
 </svg>
 
-<br>
+<details>
+    <summary>
+    voice_声
+　　</summary>
+    <figure>
+    <figcaption>日本語/jp</figcaption>
+    <audio
+        controls
+        src="http://itou33good.starfree.jp/wp-content/uploads/2023/02/br_1_jp-2.wav">
+    </audio>
+    <figcaption>en/英語</figcaption>
+      <audio
+        controls
+        src="http://itou33good.starfree.jp/wp-content/uploads/2023/02/br_1_en-2.wav">
+    </audio>
+</figure>
+</details>
 
+<br>
+<!--光沢のある青黒い物体は、黄緑色の光を反射させている。立体的な楕円形をしている。-->
 <svg
    width="113.56085mm"
    height="98.10582mm"
@@ -35191,6 +35435,24 @@ o4466qijjjrqqKOOOuqoo4466qijjjrqqKOOOuq4MDDm/wP1i59h2y8/pAAAAABJRU5ErkJggg==
        style="filter:url(#filter25)" />
   </g>
 </svg>
+
+<details>
+    <summary>
+    voice_声
+　　</summary>
+    <figure>
+    <figcaption>日本語/jp</figcaption>
+    <audio
+        controls
+        src="http://itou33good.starfree.jp/wp-content/uploads/2023/02/br_2_jp-2.wav">
+    </audio>
+    <figcaption>en/英語</figcaption>
+      <audio
+        controls
+        src="http://itou33good.starfree.jp/wp-content/uploads/2023/02/br_2_en-2.wav">
+    </audio>
+</figure>
+</details>
 
 <footer>
 <nav aria-label="サイト内メニュー">
