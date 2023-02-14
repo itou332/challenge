@@ -2690,6 +2690,7 @@ imySZGevPFQF8n/GuhKwJD2bPQ4A9e9RbqOx5pM4zSLQlJR2oqRhmkoopAf/2Q==
        y="73.930351" />
   </g>
 </svg>
+
 <details>
     <summary>
     voice_声
@@ -2909,6 +2910,7 @@ AARFAAAgKAIAAEH9P3W8ZlIjPNeFAAAAAElFTkSuQmCC
        y="106.97255" />
   </g>
 </svg>
+
 <details>
     <summary>
     voice_声
@@ -3000,6 +3002,25 @@ AARFAAAgKAIAAEH9P3W8ZlIjPNeFAAAAAElFTkSuQmCC
        y="48.993607" />
   </g>
 </svg>
+
+<details>
+    <summary>
+    voice_声
+　　</summary>
+    <figure>
+    <figcaption>日本語/jp</figcaption>
+    <audio
+        controls
+        src="http://itou33good.starfree.jp/wp-content/uploads/2023/02/1_6_jp.wav">
+    </audio>
+    <figcaption>en/英語</figcaption>
+      <audio
+        controls
+        src="http://itou33good.starfree.jp/wp-content/uploads/2023/02/1_6_en.wav">
+    </audio>
+</figure>
+</details>
+
 <br>
 <!--金属質な立方体が一筆書きで4つの渦を巻きながら書かれている。-->
 <svg
@@ -4576,7 +4597,23 @@ AAAAAAAAAAAAAAAAAAAAAOadc/8/VwXHzm/MLIIAAAAASUVORK5CYII=
   </g>
 </svg>
 
-
+<details>
+    <summary>
+    voice_声
+　　</summary>
+    <figure>
+    <figcaption>日本語/jp</figcaption>
+    <audio
+        controls
+        src="">
+    </audio>
+    <figcaption>en/英語</figcaption>
+      <audio
+        controls
+        src="">
+    </audio>
+</figure>
+</details>
 
 <h3>2022.1/17<h3>
 <!--不思議な長方形の模様がある。模様の中心には赤色のマキビシのようなものが配置されている。マキビシは緑色に発光しているようにもみえる。-->
