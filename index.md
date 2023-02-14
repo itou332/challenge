@@ -11880,7 +11880,7 @@ afDAY/lYlcn+IdKekQIKzMBj7oIzuz/Kny2RU6qSK8kUi7UdBxndk5INO+zav/d/8eWnyR7l6ZK8
 
 <details>
     <summary>
-    voice_声
+   <p>voice_声</p>
 　　</summary>
     <figure>
     <figcaption>日本語/jp</figcaption>
