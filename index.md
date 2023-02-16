@@ -4606,12 +4606,12 @@ AAAAAAAAAAAAAAAAAAAAAOadc/8/VwXHzm/MLIIAAAAASUVORK5CYII=
     <figcaption>日本語/jp</figcaption>
     <audio
         controls
-        src="">
+        src="http://itou33good.starfree.jp/wp-content/uploads/2023/02/br_0_jp.wav">
     </audio>
     <figcaption>en/英語</figcaption>
       <audio
         controls
-        src="">
+        src="http://itou33good.starfree.jp/wp-content/uploads/2023/02/br_0_en.wav">
     </audio>
 </figure>
 </details>
